@@ -1,0 +1,5 @@
+pyttsx3
+nltk
+deep-translator
+gTTS
+playsound
