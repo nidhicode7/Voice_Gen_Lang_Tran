@@ -63,8 +63,5 @@ python app.py
 
 ---
 
-```
 
-
-Do you want me to do that?
 ```
