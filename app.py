@@ -30,7 +30,7 @@ def dictionary_lookup(word):
 
     return meanings, list(synonyms), list(antonyms)
 
-def translate_word(word, lang="fr"):
+''' def translate_word(word, lang="fr"):
     result = GoogleTranslator(source='auto', target=lang).translate(word)
     return result
 
@@ -58,4 +58,4 @@ if __name__ == "__main__":
         translated = translate_word(word, "es")  # Spanish
         print("Spanish Translation:", translated)
         speak(f"In Spanish, {word} is {translated}")
-        speak_foreign(translated, "es")  # <-- Speaks in Spanish
+        speak_foreign(translated, "es")  # <-- Speaks in Spanish '''
