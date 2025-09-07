@@ -30,6 +30,9 @@ def dictionary_lookup(word):
 
     return meanings, list(synonyms), list(antonyms)
 
+
+ def translate_word(word, lang="fr"):
+
  def translate_word(word, lang="fr"):
     result = GoogleTranslator(source='auto', target=lang).translate(word)
     return result
