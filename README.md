@@ -5,6 +5,7 @@ A Python project that allows you to find meanings, synonyms, antonyms of words a
 
 ---
 
+
 ## 🚀 Features
 - Get **meanings, synonyms, and antonyms** using WordNet (nltk)
 - **Translate words** into multiple languages using `deep-translator`
