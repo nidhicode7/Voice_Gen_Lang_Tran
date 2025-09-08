@@ -1,3 +1,19 @@
+
+'''
+import pyttsx3
+from deep_translator import GoogleTranslator
+from nltk.corpus import wordnet
+from gtts import gTTS
+import os
+
+
+'''
+
+
+
+
+
+
 import pyttsx3
 from deep_translator import GoogleTranslator
 from nltk.corpus import wordnet
