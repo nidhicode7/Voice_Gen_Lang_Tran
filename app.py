@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 import pyttsx3
 from deep_translator import GoogleTranslator
 from nltk.corpus import wordnet
